@@ -12,6 +12,10 @@ function App() {
 		 <p>
           My Paragraph
         </p>
+	   </p>
+		 <p>
+          My New Paragraph Paragraph
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"

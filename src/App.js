@@ -14,7 +14,7 @@ function App() {
         </p>
 	   </p>
 		 <p>
-          My New Paragraph Paragraph
+          My New Paragraph
         </p>
         <a
           className="App-link"
